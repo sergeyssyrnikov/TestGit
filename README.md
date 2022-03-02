@@ -1,1 +1,4 @@
 # TestGit
+* addFile
+* addNew
+* Kuku
